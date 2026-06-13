@@ -1,0 +1,8 @@
+groq
+pymupdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+pandas
+gradio
