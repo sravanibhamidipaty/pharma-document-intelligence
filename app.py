@@ -1,6 +1,5 @@
 """
 PharmaDocs AI — Pharmaceutical Document Intelligence
-FAANG-Level RAG Pipeline with Evaluation Suite
 Author: Sravani Bhamidipaty
 """
 
